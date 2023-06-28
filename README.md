@@ -1,5 +1,2 @@
-# Tron_Uprising
-
-CRAFT-CONFUICT
-for more details:
+# CRAFT CONDUIT
 https://devfolio.co/projects/craft-conduit-8091
