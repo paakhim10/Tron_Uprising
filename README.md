@@ -1,2 +1,3 @@
 # CRAFT CONDUIT
-https://devfolio.co/projects/craft-conduit-8091
+A platform for local artisans to upskill and sell their artwork at an affordable and profitable price. 
+Won 1st runner-up at the Code of Duty hackathon.
